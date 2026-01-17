@@ -9,7 +9,8 @@ public class Player : MonoBehaviour
     public Animator animator;
 
     [Header("Movement Variables")]
-    public float speed;
+    public float walkSpeed;
+    public float runSpeed = 8;
     public float jumpForce;
     public float jumpCutMultiplier = 0.5f;
     public float normalGravity;
@@ -19,9 +20,10 @@ public class Player : MonoBehaviour
     public int facingDirection = 1;
 
     // INPUTS
-    public Vector2 moveInput;
-    public bool jumpPressed;
-    public bool jumpReleased;
+    private Vector2 moveInput;
+    private bool runPressed;
+    private bool jumpPressed;
+    private bool jumpReleased;
 
     [Header("Ground Check")]
     public Transform groundCheck;
@@ -51,7 +53,8 @@ public class Player : MonoBehaviour
 
     private void HandleMovement()
     {
-        float targetSpeed = moveInput.x * speed;
+        float currentSpeed = runPressed ? runSpeed : walkSpeed;
+        float targetSpeed = moveInput.x * currentSpeed;
         rb.linearVelocity = new Vector2(targetSpeed, rb.linearVelocity.y);
     }
 
@@ -96,8 +99,10 @@ public class Player : MonoBehaviour
 
     void HandleAnimation()
     {
-        animator.SetBool("isIdle", Mathf.Abs(moveInput.x) < 0.1f && isGrounded);
-        animator.SetBool("isWalking", Mathf.Abs(moveInput.x) > 0.1f && isGrounded);
+        bool isMoving = Mathf.Abs(moveInput.x) > 0.1f && isGrounded;
+        animator.SetBool("isIdle", !isMoving && isGrounded);
+        animator.SetBool("isWalking", isMoving && !runPressed);
+        animator.SetBool("isRunning", isMoving && runPressed);
     }
 
     void Flip()
@@ -117,6 +122,11 @@ public class Player : MonoBehaviour
     public void OnMove(InputValue value)
     {
         moveInput = value.Get<Vector2>();
+    }
+
+    public void OnRun(InputValue value)
+    {
+        runPressed = value.isPressed;
     }
 
     public void OnJump(InputValue value)
