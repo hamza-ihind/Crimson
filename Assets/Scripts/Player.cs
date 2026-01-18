@@ -3,10 +3,13 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
+    public PlayerState currentState;
+    public PlayerIdleState idleState;
+
     [Header("Components")]
     public Rigidbody2D rb;
     public PlayerInput playerInput;
-    public Animator animator;
+    public Animator anim;
 
     [Header("Movement Variables")]
     public float walkSpeed;
@@ -20,10 +23,10 @@ public class Player : MonoBehaviour
     public int facingDirection = 1;
 
     // INPUTS
-    private Vector2 moveInput;
-    private bool runPressed;
-    private bool jumpPressed;
-    private bool jumpReleased;
+    public Vector2 moveInput;
+    public bool runPressed;
+    public bool jumpPressed;
+    public bool jumpReleased;
 
     [Header("Ground Check")]
     public Transform groundCheck;
@@ -31,10 +34,16 @@ public class Player : MonoBehaviour
     public LayerMask groundLayer;
     private bool isGrounded;
     
+    private void Awake()
+    {
+        anim = GetComponent<Animator>();
+        idleState = new PlayerIdleState(this);
+    }
 
     private void Start()
     {
         rb.gravityScale = normalGravity;
+        ChangeState(idleState);
     }
 
     void Update()
@@ -49,6 +58,15 @@ public class Player : MonoBehaviour
         CheckGrounded();
         HandleMovement();
         HandleJump();
+    }
+
+    public void ChangeState(PlayerState newState)
+    {
+        if (currentState != null)
+            currentState.Exit();
+        
+        currentState = newState;
+        currentState.Enter();
     }
 
     private void HandleMovement()
@@ -100,9 +118,8 @@ public class Player : MonoBehaviour
     void HandleAnimation()
     {
         bool isMoving = Mathf.Abs(moveInput.x) > 0.1f && isGrounded;
-        animator.SetBool("isIdle", !isMoving && isGrounded);
-        animator.SetBool("isWalking", isMoving && !runPressed);
-        animator.SetBool("isRunning", isMoving && runPressed);
+        anim.SetBool("isWalking", isMoving && !runPressed);
+        anim.SetBool("isRunning", isMoving && runPressed);
     }
 
     void Flip()
