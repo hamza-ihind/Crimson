@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 7f8adb339ea31604cae957f10aa925a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5623976889828492307
+    second: ParallaxBackground_Stars_0
+  - first:
+      213: -3470311185520398771
+    second: ParallaxBackground_Stars_1
+  - first:
+      213: 3978309744416830395
+    second: ParallaxBackground_Stars_2
+  - first:
+      213: 1192376370544106956
+    second: ParallaxBackground_Stars_3
+  - first:
+      213: 353406357353891338
+    second: ParallaxBackground_Stars_4
+  - first:
+      213: 1479266636892175741
+    second: ParallaxBackground_Stars_5
+  - first:
+      213: 4603580130586596421
+    second: ParallaxBackground_Stars_6
+  - first:
+      213: 3317813948086470187
+    second: ParallaxBackground_Stars_7
+  - first:
+      213: 3963775361368797067
+    second: ParallaxBackground_Stars_8
+  - first:
+      213: -6724641889567386297
+    second: ParallaxBackground_Stars_9
+  - first:
+      213: -7080141389369497843
+    second: ParallaxBackground_Stars_10
+  - first:
+      213: -5683691540971730589
+    second: ParallaxBackground_Stars_11
+  - first:
+      213: -6119347467902372973
+    second: ParallaxBackground_Stars_12
+  - first:
+      213: -6816443365385629107
+    second: ParallaxBackground_Stars_13
+  - first:
+      213: -7388809972423266859
+    second: ParallaxBackground_Stars_14
+  - first:
+      213: -6590459628469797518
+    second: ParallaxBackground_Stars_15
+  - first:
+      213: -6604307314686083380
+    second: ParallaxBackground_Stars_16
+  - first:
+      213: 6810651561129139929
+    second: ParallaxBackground_Stars_17
+  - first:
+      213: -9216632848150724927
+    second: ParallaxBackground_Stars_18
+  - first:
+      213: -6146913521919589468
+    second: ParallaxBackground_Stars_19
+  - first:
+      213: 9040058051254388808
+    second: ParallaxBackground_Stars_20
+  - first:
+      213: 6924301390585039507
+    second: ParallaxBackground_Stars_21
+  - first:
+      213: -1444182056494519950
+    second: ParallaxBackground_Stars_22
+  - first:
+      213: -6621148459542975532
+    second: ParallaxBackground_Stars_23
+  - first:
+      213: 5196801558784063825
+    second: ParallaxBackground_Stars_24
+  - first:
+      213: 9048154956773479690
+    second: ParallaxBackground_Stars_25
+  - first:
+      213: -8815745253852624675
+    second: ParallaxBackground_Stars_26
+  - first:
+      213: 1369535761886602815
+    second: ParallaxBackground_Stars_27
+  - first:
+      213: -4444415779491739616
+    second: ParallaxBackground_Stars_28
+  - first:
+      213: 8715723708794900035
+    second: ParallaxBackground_Stars_29
+  - first:
+      213: -4133971199193588639
+    second: ParallaxBackground_Stars_30
+  - first:
+      213: 2995452779430073896
+    second: ParallaxBackground_Stars_31
+  - first:
+      213: -6310620189576898632
+    second: ParallaxBackground_Stars_32
+  - first:
+      213: 6116306385950176809
+    second: ParallaxBackground_Stars_33
+  - first:
+      213: -618324772034198570
+    second: ParallaxBackground_Stars_34
+  - first:
+      213: 3155902726337921129
+    second: ParallaxBackground_Stars_35
+  - first:
+      213: -4500770393385056233
+    second: ParallaxBackground_Stars_36
+  - first:
+      213: -2145790120311741164
+    second: ParallaxBackground_Stars_37
+  - first:
+      213: 5101144655064492425
+    second: ParallaxBackground_Stars_38
+  - first:
+      213: -5885051156433768355
+    second: ParallaxBackground_Stars_39
+  - first:
+      213: -252352514614301661
+    second: ParallaxBackground_Stars_40
+  - first:
+      213: -7467307860006845039
+    second: ParallaxBackground_Stars_41
+  - first:
+      213: -1280027797454491010
+    second: ParallaxBackground_Stars_42
+  - first:
+      213: -939505552438779822
+    second: ParallaxBackground_Stars_43
+  - first:
+      213: -1725097241489003325
+    second: ParallaxBackground_Stars_44
+  - first:
+      213: -7328103692156059288
+    second: ParallaxBackground_Stars_45
+  - first:
+      213: -5282002509184430793
+    second: ParallaxBackground_Stars_46
+  - first:
+      213: 5139513373735713953
+    second: ParallaxBackground_Stars_47
+  - first:
+      213: 901939385160304206
+    second: ParallaxBackground_Stars_48
+  - first:
+      213: 3043238500675472619
+    second: ParallaxBackground_Stars_49
+  - first:
+      213: -326076323639691277
+    second: ParallaxBackground_Stars_50
+  - first:
+      213: -6189345758595060841
+    second: ParallaxBackground_Stars_51
+  - first:
+      213: 8231260016344046756
+    second: ParallaxBackground_Stars_52
+  - first:
+      213: 7720330644731493995
+    second: ParallaxBackground_Stars_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 251
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314cb372f216c0e40800000000000000
+      internalID: 5623976889828492307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 258
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eedfefc5af6dfc0800000000000000
+      internalID: -3470311185520398771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 250
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3b07272abc53730800000000000000
+      internalID: 3978309744416830395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 257
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdd9d4ddfb2c8010800000000000000
+      internalID: 1192376370544106956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 254
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a068177a53d87e400800000000000000
+      internalID: 353406357353891338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 254
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d7b043b29678410800000000000000
+      internalID: 1479266636892175741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 253
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54419aaecb333ef30800000000000000
+      internalID: 4603580130586596421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 254
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c78e053e3b0e20800000000000000
+      internalID: 3317813948086470187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f25dfa0b8220730800000000000000
+      internalID: 3963775361368797067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 240
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745df9284d54da2a0800000000000000
+      internalID: -6724641889567386297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 241
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0727172be84ebd90800000000000000
+      internalID: -7080141389369497843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 243
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369cc7f28a87f11b0800000000000000
+      internalID: -5683691540971730589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3933e7e46e5b31ba0800000000000000
+      internalID: -6119347467902372973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 243
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d421f9ecfd02761a0800000000000000
+      internalID: -6816443365385629107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 243
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde8d84a7ca57990800000000000000
+      internalID: -7388809972423266859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 248
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d318ab2ebf984a0800000000000000
+      internalID: -6590459628469797518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce3f980d79c854a0800000000000000
+      internalID: -6604307314686083380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dedf0ea28b448e50800000000000000
+      internalID: 6810651561129139929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce77c4a141f71080800000000000000
+      internalID: -9216632848150724927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a300f438b6c1baa0800000000000000
+      internalID: -6146913521919589468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8488dedb6ecb47d70800000000000000
+      internalID: 9040058051254388808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a809f9d6f081060800000000000000
+      internalID: 6924301390585039507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 233
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a6ab321c35fbe0800000000000000
+      internalID: -1444182056494519950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbe0df6e84fc14a0800000000000000
+      internalID: -6621148459542975532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159358fdb7fbe1840800000000000000
+      internalID: 5196801558784063825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 227
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a055c277ef0819d70800000000000000
+      internalID: 9048154956773479690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 221
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd847c1466e28a580800000000000000
+      internalID: -8815745253852624675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 222
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36e172f481910310800000000000000
+      internalID: 1369535761886602815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 219
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028014565634252c0800000000000000
+      internalID: -4444415779491739616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 220
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e8b27098874f870800000000000000
+      internalID: 8715723708794900035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 214
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cde58d81f21a6c0800000000000000
+      internalID: -4133971199193588639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 217
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826d26bae6cf19920800000000000000
+      internalID: 2995452779430073896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 209
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b75cd76f5c2c68a0800000000000000
+      internalID: -6310620189576898632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 213
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9267300a04c71e450800000000000000
+      internalID: 6116306385950176809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3c31755e44b67f0800000000000000
+      internalID: -618324772034198570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 218
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9600f051fc40ccb20800000000000000
+      internalID: 3155902726337921129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 203
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71840be5c2d0a81c0800000000000000
+      internalID: -4500770393385056233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 205
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415a644214f9832e0800000000000000
+      internalID: -2145790120311741164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98960096908eac640800000000000000
+      internalID: 5101144655064492425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_39
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 197
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5073cf4729145ea0800000000000000
+      internalID: -5885051156433768355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cec3899b67f7cf0800000000000000
+      internalID: -252352514614301661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1954fc7901bce5890800000000000000
+      internalID: -7467307860006845039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 197
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e727916008d6c3ee0800000000000000
+      internalID: -1280027797454491010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 188
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25021628da436f2f0800000000000000
+      internalID: -939505552438779822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 193
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccaa06e2393f08e0800000000000000
+      internalID: -1725097241489003325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614fc794885d4a90800000000000000
+      internalID: -7328103692156059288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 181
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d075104be82b6b0800000000000000
+      internalID: -5282002509184430793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acf2efde28335740800000000000000
+      internalID: 5139513373735713953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_48
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 177
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e460a659715548c00800000000000000
+      internalID: 901939385160304206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 174
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccd87ea41cb3a20800000000000000
+      internalID: 3043238500675472619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f77acfaf4b897bf0800000000000000
+      internalID: -326076323639691277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 153
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79beeda33d60b1aa0800000000000000
+      internalID: -6189345758595060841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 152
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac1010bf5f4b3270800000000000000
+      internalID: 8231260016344046756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallaxBackground_Stars_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 145
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e78cb31df142b60800000000000000
+      internalID: 7720330644731493995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ParallaxBackground_Stars_0: 5623976889828492307
+      ParallaxBackground_Stars_1: -3470311185520398771
+      ParallaxBackground_Stars_10: -7080141389369497843
+      ParallaxBackground_Stars_11: -5683691540971730589
+      ParallaxBackground_Stars_12: -6119347467902372973
+      ParallaxBackground_Stars_13: -6816443365385629107
+      ParallaxBackground_Stars_14: -7388809972423266859
+      ParallaxBackground_Stars_15: -6590459628469797518
+      ParallaxBackground_Stars_16: -6604307314686083380
+      ParallaxBackground_Stars_17: 6810651561129139929
+      ParallaxBackground_Stars_18: -9216632848150724927
+      ParallaxBackground_Stars_19: -6146913521919589468
+      ParallaxBackground_Stars_2: 3978309744416830395
+      ParallaxBackground_Stars_20: 9040058051254388808
+      ParallaxBackground_Stars_21: 6924301390585039507
+      ParallaxBackground_Stars_22: -1444182056494519950
+      ParallaxBackground_Stars_23: -6621148459542975532
+      ParallaxBackground_Stars_24: 5196801558784063825
+      ParallaxBackground_Stars_25: 9048154956773479690
+      ParallaxBackground_Stars_26: -8815745253852624675
+      ParallaxBackground_Stars_27: 1369535761886602815
+      ParallaxBackground_Stars_28: -4444415779491739616
+      ParallaxBackground_Stars_29: 8715723708794900035
+      ParallaxBackground_Stars_3: 1192376370544106956
+      ParallaxBackground_Stars_30: -4133971199193588639
+      ParallaxBackground_Stars_31: 2995452779430073896
+      ParallaxBackground_Stars_32: -6310620189576898632
+      ParallaxBackground_Stars_33: 6116306385950176809
+      ParallaxBackground_Stars_34: -618324772034198570
+      ParallaxBackground_Stars_35: 3155902726337921129
+      ParallaxBackground_Stars_36: -4500770393385056233
+      ParallaxBackground_Stars_37: -2145790120311741164
+      ParallaxBackground_Stars_38: 5101144655064492425
+      ParallaxBackground_Stars_39: -5885051156433768355
+      ParallaxBackground_Stars_4: 353406357353891338
+      ParallaxBackground_Stars_40: -252352514614301661
+      ParallaxBackground_Stars_41: -7467307860006845039
+      ParallaxBackground_Stars_42: -1280027797454491010
+      ParallaxBackground_Stars_43: -939505552438779822
+      ParallaxBackground_Stars_44: -1725097241489003325
+      ParallaxBackground_Stars_45: -7328103692156059288
+      ParallaxBackground_Stars_46: -5282002509184430793
+      ParallaxBackground_Stars_47: 5139513373735713953
+      ParallaxBackground_Stars_48: 901939385160304206
+      ParallaxBackground_Stars_49: 3043238500675472619
+      ParallaxBackground_Stars_5: 1479266636892175741
+      ParallaxBackground_Stars_50: -326076323639691277
+      ParallaxBackground_Stars_51: -6189345758595060841
+      ParallaxBackground_Stars_52: 8231260016344046756
+      ParallaxBackground_Stars_53: 7720330644731493995
+      ParallaxBackground_Stars_6: 4603580130586596421
+      ParallaxBackground_Stars_7: 3317813948086470187
+      ParallaxBackground_Stars_8: 3963775361368797067
+      ParallaxBackground_Stars_9: -6724641889567386297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

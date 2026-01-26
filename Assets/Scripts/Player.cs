@@ -5,6 +5,7 @@ public class Player : MonoBehaviour
 {
     public PlayerState currentState;
     public PlayerIdleState idleState;
+    public PlayerJumpState jumpState;
 
     [Header("Components")]
     public Rigidbody2D rb;
@@ -32,12 +33,12 @@ public class Player : MonoBehaviour
     public Transform groundCheck;
     public float groundCheckRadius;
     public LayerMask groundLayer;
-    private bool isGrounded;
+    public bool isGrounded;
     
     private void Awake()
     {
-        anim = GetComponent<Animator>();
         idleState = new PlayerIdleState(this);
+        jumpState = new PlayerJumpState(this);
     }
 
     private void Start()
@@ -48,22 +49,21 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        currentState?.Update();
         Flip(); 
         HandleAnimation();
     }
 
     void FixedUpdate()
     {
-        ApplyVariableGravity();
+        currentState?.FixedUpdate();
         CheckGrounded();
         HandleMovement();
-        HandleJump();
     }
 
     public void ChangeState(PlayerState newState)
     {
-        if (currentState != null)
-            currentState.Exit();
+        currentState?.Exit();
         
         currentState = newState;
         currentState.Enter();
@@ -76,25 +76,8 @@ public class Player : MonoBehaviour
         rb.linearVelocity = new Vector2(targetSpeed, rb.linearVelocity.y);
     }
 
-    void HandleJump()
-    {
-        if (jumpPressed && isGrounded)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            jumpPressed = false;    
-            jumpReleased = false;
-        } 
-        if (jumpReleased)
-        {
-            if (rb.linearVelocity.y > 0)
-            {
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * jumpCutMultiplier);
-            }
-            jumpReleased = false;
-        }
-    }
 
-    void ApplyVariableGravity()
+    public void ApplyVariableGravity()
     {
         if (rb.linearVelocity.y < -0.1f) // Falling
         {
@@ -120,6 +103,8 @@ public class Player : MonoBehaviour
         bool isMoving = Mathf.Abs(moveInput.x) > 0.1f && isGrounded;
         anim.SetBool("isWalking", isMoving && !runPressed);
         anim.SetBool("isRunning", isMoving && runPressed);
+        anim.SetBool("isGrounded", isGrounded);
+        anim.SetFloat("yVelocity", rb.linearVelocity.y);
     }
 
     void Flip()
