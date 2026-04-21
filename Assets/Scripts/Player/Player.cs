@@ -15,7 +15,7 @@ public class Player : MonoBehaviour
 
     [Header("Movement Variables")]
     public float walkSpeed;
-    public float runSpeed = 8;
+    public float runSpeed = 10;
     public float jumpForce;
     public float jumpCutMultiplier = 0.5f;
     public float normalGravity;
